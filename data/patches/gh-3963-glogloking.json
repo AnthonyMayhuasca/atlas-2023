@@ -1,0 +1,46 @@
+{
+	"id": 1718,
+	"name": "GLOGLOKING",
+	"description": "Peruvian streamer on the twitch platform best known for his dad abandoning him and his only inheritance was a counter monopoly.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/elglogloking"
+		],
+		"subreddit": [
+			"LosFragmentados"
+		],
+		"discord": [
+			"Qw2D3jxMm9"
+		]
+	},
+	"path": {
+		"226-254": [
+			[
+				-1500,
+				-612
+			],
+			[
+				-1428,
+				-612
+			],
+			[
+				-1429,
+				-683
+			],
+			[
+				-1500,
+				-683
+			],
+			[
+				-1500,
+				-612
+			]
+		]
+	},
+	"center": {
+		"226-254": [
+			-1464,
+			-647
+		]
+	}
+}
